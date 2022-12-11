@@ -93,7 +93,7 @@ body{
 #spin{
 	position: absolute;
 	top:50%;
-	left:13%;
+	left:18%;
 	transform:translate(-50%,-50%);
 	z-index:10;
 	background-color: #ec0505;
@@ -111,3 +111,8 @@ body{
 	letter-spacing: 1px;
 }
 
+img{
+	position: absolute;
+	top: 5%;
+	left: 10%
+}
